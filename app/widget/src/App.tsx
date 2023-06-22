@@ -89,7 +89,7 @@ function App() {
         <div className="sticky top-0 z-10">
           <div className="flex justify-between bg-white border-b border-gray-100 p-4 items-center">
             {/* bot name here instead of brand name */}
-            <p className="font-bold text-lg">Stiga Assistant by 🥓</p>
+            <p className="font-bold text-lg">Crispy Assistant 🥓</p>
             {params?.mode === "iframe" && (
               <button
               onClick={() => {
